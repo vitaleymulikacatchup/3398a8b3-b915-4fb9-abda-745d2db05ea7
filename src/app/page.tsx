@@ -91,7 +91,6 @@ export default function Home() {
               { label: "About Us", onClick: () => {} }
             ]}
           ]}
-          onPrivacyClick={() => {}}
         />
       </div>
     </SiteThemeProvider>
