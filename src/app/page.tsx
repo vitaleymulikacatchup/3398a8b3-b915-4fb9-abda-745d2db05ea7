@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { SiteThemeProvider } from '@/components/sections/ThemeProvider';
 import NavbarStyleApple from '@/components/navigation/NavbarStyleApple/NavbarStyleApple';
 import VoidHero from '@/components/sections/layouts/hero/VoidHero';
@@ -91,7 +91,6 @@ export default function Home() {
               { label: "About Us", onClick: () => {} }
             ]}
           ]}
-          copyrightText="© 2023 Xeven Solutions. All rights reserved."
           onPrivacyClick={() => {}}
         />
       </div>
